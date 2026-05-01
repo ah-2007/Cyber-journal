@@ -20,7 +20,7 @@ The CIA Triad is the foundation of cybersecurity. It consists of three principle
 
 ## ~TCP/IP
 ### TCP/IP is the core communication protocol used for internet networking. It defines how data is transmitted between devices.
-- ➡️ See: [Networking](networking.md)
+- ➡️ See: [Networking](Networking.md)
 
 ## ~Linux
 ### Linux is a widely used operating system in cybersecurity for its flexibility and control over system processes.
